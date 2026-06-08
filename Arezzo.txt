@@ -2,3 +2,7 @@ Arezzo
 ======
 
 Nuovo file per Arezzo.
+
+E così lavoro al file di Arezzo.
+
+Aggiungo righe e informazioni.
