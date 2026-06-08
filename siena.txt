@@ -7,3 +7,6 @@ Capitolo 1
 ----------
 
 Per Siena prima o poi faremo tutto quanto.
+
+Aggiungo qualche riga a questo file.
+Poi vediamo come si registra in Git.
